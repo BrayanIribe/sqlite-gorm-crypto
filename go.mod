@@ -1,4 +1,4 @@
-module gorm.io/driver/sqlite
+module github.com/BrayanIribe/sqlite-gorm-crypto
 
 go 1.20
 
